@@ -6,3 +6,5 @@
 - 모듈의 Auto Use Delay
 
 [아재개그 출처](https://github.com/Team-WAVE-x/Stop-uncle/blob/master/src/ajegag.json)
+
+> special thanks to ***hongsh373***
