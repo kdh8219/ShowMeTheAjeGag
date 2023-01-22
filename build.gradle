@@ -125,6 +125,7 @@ dependencies {
 
     // Add your dependencies below
     // jarLibs 'com.lambda:example:1.0.0'
+    implementation 'com.google.code.gson:gson:2.8.9'
 }
 
 mixin {

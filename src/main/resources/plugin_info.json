@@ -1,11 +1,9 @@
 {
-  "name": "ExamplePlugin",
+  "name": "AjeGagBot",
   "version": "${version}",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
-  "min_api_version": "3.2",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
-  "required_plugins": []
+  "description": "Show a random dad joke",
+  "url": "https://github.com/kdh8219/dad-joke-bot/",
+  "authors": [ "kdh8219",  "hongsh373" ],
+  "main_class": "io.github.kdh8219.showMeTheAjeGag.Main",
+  "min_api_version": "3.2"
 }
