@@ -1,8 +1,8 @@
 {
-  "name": "AjeGagBot",
+  "name": "ShowMeTheAjeGag",
   "version": "${version}",
-  "description": "Show a random dad joke",
-  "url": "https://github.com/kdh8219/dad-joke-bot/",
+  "description": "Show a random aje gag",
+  "url": "https://github.com/kdh8219/ShowMeTheAjeGag/",
   "authors": [ "kdh8219",  "hongsh373" ],
   "main_class": "io.github.kdh8219.showMeTheAjeGag.Main",
   "min_api_version": "3.2"
