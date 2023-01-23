@@ -5,7 +5,8 @@
 - `;aje`
 - 모듈의 Auto Use Delay
 
-> special thanks to ***hongsh373***
+> special thanks to 
+[***@hongsh373***](https://github.com/hongsh373)
 
 아재개그 출처
 [(Team-WAVE-x/Stop-uncle)](https://github.com/Team-WAVE-x/Stop-uncle/blob/master/src/ajegag.json)
